@@ -63,7 +63,7 @@
 My workstations: docker development environments.
 
 * TODO [docker-ubuntu](https://github.com/redraiment/docker-ubuntu): My Ubuntu workstation.
-* TODO [docker-archlinux](https://github.com/redraiment/docker-archlinux): My ArchLinux workstation.
+* [docker-archlinux](https://github.com/redraiment/docker-archlinux): My ArchLinux workstation.
 * [docker-clojure](https://github.com/redraiment/docker-llvm): My Clojure workstation.
 * [docker-haskell](https://github.com/redraiment/docker-llvm): My Haskell workstation.
 * [docker-llvm](https://github.com/redraiment/docker-llvm): My LLVM workstation.
