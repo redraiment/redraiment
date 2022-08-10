@@ -9,10 +9,10 @@
         :last "Zhang"}
  :email "redraiment@gmail.com"
  :bio "A Full-Stack developer from China, worked at Alibaba Group & State Streep Crop."
- :skills [:Clojure :Java :Kotlin :Python :C :Spring-Boot
-          :JavaScript :ClojureScript :TypeScript :React
-          :PostgreSQL :MySQL
-          :Emacs-Lisp]}
+ :skills [:Clojure :Kotlin :Java :Python :C
+          :ClojureScript :JavaScript :TypeScript
+          :PostgreSQL :MySQL :SQLite
+          :Linux :FreeBSD :Emacs]}
 ```
 
 ### My Funny Projects 📋
