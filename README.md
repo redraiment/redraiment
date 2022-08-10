@@ -71,9 +71,9 @@ My workstations: development environments based on docker container.
 
 #### Play with Knowledges
 
-* [calendiary](https://github.com/redraiment/calendiary)：日历记。
-* [iKnowledge](https://github.com/redraiment/iKnowledge)：iKnowledge：基于Jekyll的个人知识管理（博客）系统
-* [redraiment.github.io](https://github.com/redraiment/redraiment.github.io)：基于iKnowledge的个人博客
+* [calendiary](https://github.com/redraiment/calendiary): a diary app with calendar view, inspired by Flava 1.0.
+* [iKnowledge](https://github.com/redraiment/iKnowledge): personal knowledge management system based on Jekyll.
+* [redraiment.github.io](https://github.com/redraiment/redraiment.github.io): my BLOG based on iKnowledge.
 
 #### Play with Utilities
 
