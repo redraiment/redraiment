@@ -77,7 +77,6 @@ My workstations: development environments based on docker container.
 
 #### Play with Utilities
 
-* [district](https://github.com/redraiment/district)：针对中国大陆地区的查询手机号码、电话号码、IP地址归属地。
 * [erm](https://github.com/redraiment/erm)：Generate text file from templates。
 * [jco](https://github.com/redraiment/jco)：Provides an API for parsing command line options passed to programs in Java.
 * [jfn](https://github.com/redraiment/jfn)：Here is an example of how program with functional-style in Pure Java (1.5+)
