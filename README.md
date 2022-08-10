@@ -60,14 +60,14 @@
 
 #### Play with Docker
 
-My workstations: docker development environments.
+My workstations: development environments based on docker container.
 
 * TODO [docker-ubuntu](https://github.com/redraiment/docker-ubuntu): My Ubuntu workstation.
 * [docker-archlinux](https://github.com/redraiment/docker-archlinux): My ArchLinux workstation.
 * [docker-clojure](https://github.com/redraiment/docker-llvm): My Clojure workstation.
 * [docker-haskell](https://github.com/redraiment/docker-llvm): My Haskell workstation.
-* [docker-llvm](https://github.com/redraiment/docker-llvm): My LLVM workstation.
-* [docker-python](https://github.com/redraiment/docker-llvm): My Python workstation.
+* [docker-llvm](https://github.com/redraiment/docker-llvm): My LLVM workstation based on [docker-archlinux](https://github.com/redraiment/docker-archlinux).
+* [docker-python](https://github.com/redraiment/docker-llvm): My Python workstation based on [docker-archlinux](https://github.com/redraiment/docker-archlinux).
 
 #### Play with Knowledges
 
@@ -85,4 +85,3 @@ My workstations: docker development environments.
 * [listfile](https://github.com/redraiment/listfile)：类似shell的ls命令，但允许使用正则表达式/通配符匹配文件名
 * [templates](https://github.com/redraiment/templates)：常用的工程模板。
 * [jss](https://github.com/redraiment/jss)：一个轻量的Web服务器，可在服务器端运行JavaScript代码
-
