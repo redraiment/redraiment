@@ -15,6 +15,8 @@
           :Linux :FreeBSD :Emacs]}
 ```
 
+I'm looking for a remote Clojure job, and only communicate over email or IM, NO verbal communication.
+
 ### My Funny Projects 📋
 
 #### Frameworks
