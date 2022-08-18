@@ -38,9 +38,9 @@ I'm looking for a remote Clojure job, and only communicate over email or IM, NO 
 * [PinkRaiment](https://github.com/redraiment/PinkRaiment): PHP MVC framework inspired by RoR.
 * [phpActiveRecord](https://github.com/redraiment/phpActiveRecord)：ActiveRecord in PHP, like jActiveRecord.
 
-#### Play with Interpreters
+#### Play with Interpreters & Compilers
 
-* [brainfuck](https://github.com/redraiment/brainfuck): toy translator, interpreters (and maybe compilers) of brainfuck language.
+* [brainfuck](https://github.com/redraiment/brainfuck): implement interpreters and compilers of brainfuck language in a variety of ways.
 * [Linsp](https://github.com/redraiment/Linsp): Lisp in Lisp。
 * [SmallC](https://github.com/redraiment/SmallC): 我的本科毕业设计，针对并行任务的新编程语言及其解释器。
 * [basic](https://github.com/redraiment/basic)：BASIC Programming Language Interpreter in ANSI C。
