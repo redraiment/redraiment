@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Zhang, Zepeng ([redraiment](mailto:redraiment@gmail.com))
 
+[![redraiment](https://img.shields.io/twitter/follow/redraiment?logo=twitter&style=for-the-badge)](https://twitter.com/redraiment)
+
 ----
 
 ### Bio
