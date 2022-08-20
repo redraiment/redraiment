@@ -40,7 +40,7 @@ I'm looking for a remote Clojure job, and only communicate over email or IM, NO 
 
 #### Play with Interpreters & Compilers
 
-* [brainfuck](https://github.com/redraiment/brainfuck): implement interpreters and compilers of brainfuck language in a variety of ways.
+* [brainfuck](https://github.com/redraiment/brainfuck): this is my learning project to practice building compilers. Implementing in Clojure and C with LLVM C API, flex, bison, instaparse, etc.
 * [Linsp](https://github.com/redraiment/Linsp): Lisp in Lisp。
 * [SmallC](https://github.com/redraiment/SmallC): 我的本科毕业设计，针对并行任务的新编程语言及其解释器。
 * [basic](https://github.com/redraiment/basic)：BASIC Programming Language Interpreter in ANSI C。
