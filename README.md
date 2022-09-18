@@ -17,7 +17,7 @@
           :Linux :FreeBSD :Emacs]}
 ```
 
-🔭 I'm looking for a remote Clojure job, and only communicate over email or IM, NO verbal communication.
+🔭 I'm looking for a remote full-stack developer job. It's better with Clojure and PostgreSQL.
 
 ### My Funny Projects 📋
 
