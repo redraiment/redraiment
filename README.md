@@ -50,7 +50,7 @@ Hence, I reinvented many wheels.
 
 #### Play with Interpreters & Compilers
 
-* [brainfuck](https://github.com/redraiment/brainfuck): this is my learning project to practice building compilers. Implementing in Clojure and C with LLVM C API, flex, bison, instaparse, etc.
+* [brainfuck](https://github.com/redraiment/brainfuck): a learning project to practice building compiler and interpreter with LLVM C API, flex, bison, etc.
 * [basic](https://github.com/redraiment/basic): BASIC Programming Language Interpreter in ANSI C.
 * [SmallC](https://github.com/redraiment/SmallC): it's my undergraduate graduation project, which is a programming language with built-in concurrency.
 * [Linsp](https://github.com/redraiment/Linsp): Lisp in Lisp.
