@@ -53,7 +53,7 @@ Hence, I reinvented many wheels.
 * [brainfuck](https://github.com/redraiment/brainfuck): a learning project to practice building compiler and interpreter with LLVM C API, flex, bison, etc.
 * [basic](https://github.com/redraiment/basic): BASIC Programming Language Interpreter in ANSI C.
 * [SmallC](https://github.com/redraiment/SmallC): it's my undergraduate graduation project, which is a programming language with built-in concurrency.
-* [Linsp](https://github.com/redraiment/Linsp): Lisp in Lisp.
+* [Linsp](https://github.com/redraiment/Linsp): a tiny Lisp interpreter in Lisp, inspired by [the root of lisp](http://www.paulgraham.com/rootsoflisp.html).
 * [clop](https://github.com/redraiment/clop): a programming language still in design.
 
 #### Play with Emacs Lisp
