@@ -33,7 +33,7 @@ Hence, I reinvented many wheels.
 
 ##### BackEnd Framework on Clojure
 
-* zeta: _TODO_.
+* [zeta](https://github.com/redraiment/zeta): an open source software development toolkit in Clojure.
 
 ##### BackEnd Framework on Java
 
