@@ -21,11 +21,19 @@
 
 ### My Funny Projects 📋
 
+Quote by Richard P. Feynman: "What I cannot create, I do not understand."
+
+Hence, I reinvented many wheels.
+
 #### Frameworks
 
 ##### FrontEnd Framework on React
 
-* [pure-frame](https://github.com/redraiment/pure-frame)：A data-driven, functional, and reactive framework for building Modern Web Apps in JavaScript. It leverages React, inspired by re-frame.
+* [pure-frame](https://github.com/redraiment/pure-frame): A data-driven, functional, and reactive framework for building Modern Web Apps in JavaScript. It leverages React, inspired by re-frame.
+
+##### BackEnd Framework on Clojure
+
+* zeta: _TODO_.
 
 ##### BackEnd Framework on Java
 
@@ -38,36 +46,35 @@
 ##### BackEnd Framework on PHP 5
 
 * [PinkRaiment](https://github.com/redraiment/PinkRaiment): PHP MVC framework inspired by RoR.
-* [phpActiveRecord](https://github.com/redraiment/phpActiveRecord)：ActiveRecord in PHP, like jActiveRecord.
+* [phpActiveRecord](https://github.com/redraiment/phpActiveRecord): ActiveRecord in PHP, like jActiveRecord.
 
 #### Play with Interpreters & Compilers
 
 * [brainfuck](https://github.com/redraiment/brainfuck): this is my learning project to practice building compilers. Implementing in Clojure and C with LLVM C API, flex, bison, instaparse, etc.
-* [Linsp](https://github.com/redraiment/Linsp): Lisp in Lisp。
-* [SmallC](https://github.com/redraiment/SmallC): 我的本科毕业设计，针对并行任务的新编程语言及其解释器。
-* [basic](https://github.com/redraiment/basic)：BASIC Programming Language Interpreter in ANSI C。
-* [clop](https://github.com/redraiment/clop)：我构想的编程语言，原则只有一条——一致！
+* [basic](https://github.com/redraiment/basic): BASIC Programming Language Interpreter in ANSI C.
+* [SmallC](https://github.com/redraiment/SmallC): it's my undergraduate graduation project, which is a programming language with built-in concurrency.
+* [Linsp](https://github.com/redraiment/Linsp): Lisp in Lisp.
+* [clop](https://github.com/redraiment/clop): a programming language still in design.
 
 #### Play with Emacs Lisp
 
-* [edbc](https://github.com/redraiment/edbc)：EDBC is Emacs-Lisp-based data access technology。
-* [emacs-cgi](https://github.com/redraiment/emacs-cgi)：Using Emacs Lisp for CGI scripting。
-* [eml](https://github.com/redraiment/eml)：Emacs-lisp Markup Language -- convert S-expression to XML。
-* [wechat.el](https://github.com/redraiment/wechat.el)：用Emacs Lisp开发的微信小游戏； Wechat game in Email Lisp。
+* [edbc](https://github.com/redraiment/edbc): EDBC is Emacs-Lisp-based data access technology, inspired by JDBC.
+* [emacs-cgi](https://github.com/redraiment/emacs-cgi): using Emacs Lisp for CGI scripting.
+* [eml](https://github.com/redraiment/eml): Emacs-lisp Markup Language -- convert S-expression to XML.
+* [wechat.el](https://github.com/redraiment/wechat.el): a framework to develop Wechat game in Email Lisp.
 
 #### Play with Databases
 
-* [SciKit Learn for PolarDB](https://github.com/redraiment/SciKit-Learn-for-PolarDB)：在PostgreSQL中使用Scikit-Learn
-* [pgaut](https://github.com/redraiment/pgaut)：a PostgreSQL extension which implements MySQL `on update current_timestamp`
-* [pgsql-proxy-middleware](https://github.com/redraiment/pgsql-proxy-middleware)：The one-liner node.js proxy middleware for PostgreSQL
-* [mysqld](https://github.com/redraiment/mysqld)：用于JUnit单元测试的嵌入式 MySQL 服务器
-* [sqlet](https://github.com/redraiment/sqlet)：SQL Server Applet. Build Web Service with Pure SQL。
+* [SciKit Learn for PolarDB](https://github.com/redraiment/SciKit-Learn-for-PolarDB): a PostgreSQL extension to wrap SciKit-Learn.
+* [pgaut](https://github.com/redraiment/pgaut): a PostgreSQL extension which implements MySQL `on update current_timestamp`.
+* [pgsql-proxy-middleware](https://github.com/redraiment/pgsql-proxy-middleware): The one-liner node.js proxy middleware for PostgreSQL.
+* [mysqld](https://github.com/redraiment/mysqld): embed a MySQL server into Java program for unit testing.
+* [sqlet](https://github.com/redraiment/sqlet): a framework to develop Web service in pure SQL.
 
 #### Play with Docker
 
 My workstations: development environments based on docker container.
 
-* TODO [docker-ubuntu](https://github.com/redraiment/docker-ubuntu): My Ubuntu workstation.
 * [docker-archlinux](https://github.com/redraiment/docker-archlinux): My ArchLinux workstation.
 * [docker-haskell](https://github.com/redraiment/docker-llvm): My Haskell workstation.
 * [docker-clojure](https://github.com/redraiment/docker-llvm): My Clojure workstation based on [docker-archlinux](https://github.com/redraiment/docker-archlinux).
@@ -82,10 +89,10 @@ My workstations: development environments based on docker container.
 
 #### Play with Utilities
 
-* [erm](https://github.com/redraiment/erm)：Generate text file from templates。
-* [jco](https://github.com/redraiment/jco)：Provides an API for parsing command line options passed to programs in Java.
-* [jfn](https://github.com/redraiment/jfn)：Here is an example of how program with functional-style in Pure Java (1.5+)
-* [lein-as-resource](https://github.com/redraiment/lein-as-resource)：Provide leiningen as a resource jar on the classpath.
-* [listfile](https://github.com/redraiment/listfile)：类似shell的ls命令，但允许使用正则表达式/通配符匹配文件名
-* [templates](https://github.com/redraiment/templates)：常用的工程模板。
-* [jss](https://github.com/redraiment/jss)：一个轻量的Web服务器，可在服务器端运行JavaScript代码
+* [erm](https://github.com/redraiment/erm): generate text file from templates.
+* [jco](https://github.com/redraiment/jco): Provides an API for parsing command line options passed to programs in Java.
+* [jfn](https://github.com/redraiment/jfn): Here is an example of how program with functional-style in Pure Java (1.5+)
+* [lein-as-resource](https://github.com/redraiment/lein-as-resource): Provide leiningen as a resource jar on the classpath.
+* [listfile](https://github.com/redraiment/listfile): an enhanced `ls` that can match file path with regular expression.
+* [templates](https://github.com/redraiment/templates): project templates.
+* [jss](https://github.com/redraiment/jss): a lightweight web server for Nashorn (JavaScript engine in Java).
