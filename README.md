@@ -95,4 +95,4 @@ My workstations: development environments based on docker container.
 * [jfn](https://github.com/redraiment/jfn): Here is an example of how program with functional-style in Pure Java (1.5+)
 * [listfile](https://github.com/redraiment/listfile): an enhanced `ls` that can match file path with regular expression.
 * [jss](https://github.com/redraiment/jss): a lightweight web server for Nashorn (JavaScript engine in Java).
-* [laboratory](https://github.com/redraiment/laboratory): a collection of ready-to-use samples.
+* [snippets](https://github.com/redraiment/snippets): a collection of ready-to-use samples.
