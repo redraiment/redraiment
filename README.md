@@ -37,11 +37,11 @@ Hence, I reinvented many wheels.
 
 ##### BackEnd Framework on Java
 
-* [raiment](https://github.com/redraiment/raiment): Java MVC framework inspired by RoR.
-  * [jactioncontroller](https://github.com/redraiment/jactioncontroller): Controller module.
-  * [jactionview](https://github.com/redraiment/jactionview): View module.
-  * [jactiverecord](https://github.com/redraiment/jactiverecord): ORM module, implements ActiveRecord pattern in Java.
-  * [jactiverecord-el](https://github.com/redraiment/jactiverecord-el): JSP expression language (EL) for jActiveRecord, provides Record & Table field accessor.
+* [Java on Rails](https://github.com/redraiment/java-on-rails): Java MVC framework inspired by RoR.
+  * [jactiverecord](https://github.com/redraiment/java-on-rails/tree/main/jactiverecord): ORM module, implements ActiveRecord pattern in Java.
+  * [jactiverecord-el](https://github.com/redraiment/java-on-rails/tree/main/jactiverecord-el): JSP expression language (EL) for jActiveRecord, provides Record & Table field accessor.
+  * [jactioncontroller](https://github.com/redraiment/java-on-rails/tree/main/jactioncontroller): Controller module.
+  * [jactionview](https://github.com/redraiment/java-on-rails/tree/main/jactionview): View module.
 
 ##### BackEnd Framework on PHP 5
 
