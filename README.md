@@ -25,6 +25,15 @@ Quote by Richard P. Feynman: "What I cannot create, I do not understand."
 
 Hence, I reinvented many wheels.
 
+#### Play with Interpreters & Compilers
+
+* [brainfuck](https://github.com/redraiment/brainfuck): a learning project to practice building compiler and interpreter with LLVM C API, flex, bison, etc.
+* [basic](https://github.com/redraiment/basic): BASIC Programming Language Interpreter in ANSI C.
+* [SmallC](https://github.com/redraiment/SmallC): it's my undergraduate graduation project, which is a programming language with built-in concurrency.
+* [Linsp](https://github.com/redraiment/Linsp): a tiny Lisp interpreter in Lisp, inspired by [the root of lisp](http://www.paulgraham.com/rootsoflisp.html).
+* [clop](https://github.com/redraiment/clop): a programming language still in design.
+* [jssp](https://github.com/redraiment/jssp): a templating system that embeds JVM scripting language into a text document, similar to JSP, PHP, ASP, and other server-side scripting languages.
+
 #### Frameworks
 
 ##### FrontEnd Framework on React
@@ -47,14 +56,6 @@ Hence, I reinvented many wheels.
 
 * [PinkRaiment](https://github.com/redraiment/PinkRaiment): PHP MVC framework inspired by RoR.
 * [phpActiveRecord](https://github.com/redraiment/phpActiveRecord): ActiveRecord in PHP, like jActiveRecord.
-
-#### Play with Interpreters & Compilers
-
-* [brainfuck](https://github.com/redraiment/brainfuck): a learning project to practice building compiler and interpreter with LLVM C API, flex, bison, etc.
-* [basic](https://github.com/redraiment/basic): BASIC Programming Language Interpreter in ANSI C.
-* [SmallC](https://github.com/redraiment/SmallC): it's my undergraduate graduation project, which is a programming language with built-in concurrency.
-* [Linsp](https://github.com/redraiment/Linsp): a tiny Lisp interpreter in Lisp, inspired by [the root of lisp](http://www.paulgraham.com/rootsoflisp.html).
-* [clop](https://github.com/redraiment/clop): a programming language still in design.
 
 #### Play with Emacs Lisp
 
@@ -94,5 +95,4 @@ My workstations: development environments based on docker container.
 * [jco](https://github.com/redraiment/jco): Provides an API for parsing command line options passed to programs in Java.
 * [jfn](https://github.com/redraiment/jfn): Here is an example of how program with functional-style in Pure Java (1.5+)
 * [listfile](https://github.com/redraiment/listfile): an enhanced `ls` that can match file path with regular expression.
-* [jss](https://github.com/redraiment/jss): a lightweight web server for Nashorn (JavaScript engine in Java).
 * [snippets](https://github.com/redraiment/snippets): a collection of ready-to-use samples.
