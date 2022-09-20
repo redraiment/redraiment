@@ -93,7 +93,6 @@ My workstations: development environments based on docker container.
 * [erm](https://github.com/redraiment/erm): generate text file from templates.
 * [jco](https://github.com/redraiment/jco): Provides an API for parsing command line options passed to programs in Java.
 * [jfn](https://github.com/redraiment/jfn): Here is an example of how program with functional-style in Pure Java (1.5+)
-* [lein-as-resource](https://github.com/redraiment/lein-as-resource): Provide leiningen as a resource jar on the classpath.
 * [listfile](https://github.com/redraiment/listfile): an enhanced `ls` that can match file path with regular expression.
-* [templates](https://github.com/redraiment/templates): a collection of ready-to-use samples.
 * [jss](https://github.com/redraiment/jss): a lightweight web server for Nashorn (JavaScript engine in Java).
+* [laboratory](https://github.com/redraiment/laboratory): a collection of ready-to-use samples.
