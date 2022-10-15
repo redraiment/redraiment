@@ -91,7 +91,6 @@ My workstations: development environments based on docker container.
 
 #### 🧰 Play with Utilities
 
-* [erm](https://github.com/redraiment/erm): generate text file from templates.
 * [jco](https://github.com/redraiment/jco): Provides an API for parsing command line options passed to programs in Java.
 * [jfn](https://github.com/redraiment/jfn): Here is an example of how program with functional-style in Pure Java (1.5+)
 * [listfile](https://github.com/redraiment/listfile): an enhanced `ls` that can match file path with regular expression.
