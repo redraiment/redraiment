@@ -10,14 +10,13 @@
 {:name {:first "Zepeng"
         :last "Zhang"}
  :email "redraiment@gmail.com"
- :bio "A Full-Stack developer from China, worked at Alibaba Group & State Streep Crop."
- :skills [:Clojure :Kotlin :Java :Python :C
-          :ClojureScript :JavaScript :TypeScript
-          :PostgreSQL :MySQL :SQLite
-          :Linux :FreeBSD :Emacs]}
+ :bio "A Full Stack Engineer Passionate about Cutting-Edge Technologies."
+ :favorites [:AI :Compiler :Database :DataAnalysis :WebApplication
+             :Clojure :Kotlin :Python :C :JavaScript
+             :Linux :FreeBSD :PostgreSQL :Emacs]}
 ```
 
-🔭 I'm looking for a remote full-stack developer job. It's better with Clojure and PostgreSQL.
+🔭 Looking forward to connecting with you and creating something amazing together!
 
 ### 📋 My Funny Projects
 
@@ -27,70 +26,67 @@ Hence, I reinvented many wheels.
 
 #### 🧬 Play with Interpreters & Compilers
 
-* [brainfuck](https://github.com/redraiment/brainfuck): a learning project to practice building compiler and interpreter with LLVM C API, flex, bison, etc.
-* [basic](https://github.com/redraiment/basic): BASIC Programming Language Interpreter in ANSI C.
-* [SmallC](https://github.com/redraiment/SmallC): it's my undergraduate graduation project, which is a programming language with built-in concurrency.
-* [Linsp](https://github.com/redraiment/Linsp): a tiny Lisp interpreter in Lisp, inspired by [the root of lisp](http://www.paulgraham.com/rootsoflisp.html).
-* [clop](https://github.com/redraiment/clop): a programming language still in design.
-* [jssp](https://github.com/redraiment/jssp): a templating system that embeds JVM scripting language into a text document, similar to JSP, PHP, ASP, and other server-side scripting languages.
+* [brainfuck](https://github.com/redraiment/brainfuck): A learning project focused on practicing compiler and interpreter construction using LLVM C API, flex, bison, and more.
+* [basic](https://github.com/redraiment/basic): A BASIC Programming Language Interpreter implemented in ANSI C.
+* [SmallC](https://github.com/redraiment/SmallC): my undergraduate graduation project, featuring a programming language with built-in concurrency support.
+* [Linsp](https://github.com/redraiment/Linsp): A minimal Lisp interpreter in Lisp, inspired by [The Roots of Lisp](http://www.paulgraham.com/rootsoflisp.html).
+* [clop](https://github.com/redraiment/clop): A programming language currently under design.
+* [jssp](https://github.com/redraiment/jssp): A templating system embedding JVM scripting language into text documents, similar to JSP, PHP, ASP, and other server-side scripting languages.
 
 #### 🖼️ Frameworks
 
 ##### FrontEnd Framework on React
 
-* [pure-frame](https://github.com/redraiment/pure-frame): A data-driven, functional, and reactive framework for building Modern Web Apps in JavaScript. It leverages React, inspired by re-frame.
+* [pure-frame](https://github.com/redraiment/pure-frame): A data-driven, functional, and reactive JavaScript framework for modern web apps, utilizing React and inspired by re-frame.
 
 ##### BackEnd Framework on Clojure
 
-* [zeta](https://github.com/redraiment/zeta): an open source software development toolkit in Clojure.
+* [zeta](https://github.com/redraiment/zeta): An open-source software development toolkit in Clojure.
 
 ##### BackEnd Framework on Java
 
-* [Java on Rails](https://github.com/redraiment/java-on-rails): Java MVC framework inspired by RoR.
-  * [jactiverecord](https://github.com/redraiment/java-on-rails/tree/main/jactiverecord): ORM module, implements ActiveRecord pattern in Java.
-  * [jactiverecord-el](https://github.com/redraiment/java-on-rails/tree/main/jactiverecord-el): JSP expression language (EL) for jActiveRecord, provides Record & Table field accessor.
+* [Java on Rails](https://github.com/redraiment/java-on-rails): A Java MVC framework inspired by Ruby on Rails (RoR), featuring:
+  * [jactiverecord](https://github.com/redraiment/java-on-rails/tree/main/jactiverecord): ORM module implementing the ActiveRecord pattern in Java.
+  * [jactiverecord-el](https://github.com/redraiment/java-on-rails/tree/main/jactiverecord-el): JSP expression language (EL) for jActiveRecord, providing Record & Table field accessors.
   * [jactioncontroller](https://github.com/redraiment/java-on-rails/tree/main/jactioncontroller): Controller module.
   * [jactionview](https://github.com/redraiment/java-on-rails/tree/main/jactionview): View module.
 
 ##### BackEnd Framework on PHP 5
 
-* [PinkRaiment](https://github.com/redraiment/PinkRaiment): PHP MVC framework inspired by RoR.
-* [phpActiveRecord](https://github.com/redraiment/phpActiveRecord): ActiveRecord in PHP, like jActiveRecord.
+* [PinkRaiment](https://github.com/redraiment/PinkRaiment): A PHP MVC framework inspired by RoR.
+* [phpActiveRecord](https://github.com/redraiment/phpActiveRecord): ActiveRecord implementation in PHP, similar to jActiveRecord.
 
 #### 🐂 Play with Emacs Lisp
 
-* [edbc](https://github.com/redraiment/edbc): EDBC is Emacs-Lisp-based data access technology, inspired by JDBC.
-* [emacs-cgi](https://github.com/redraiment/emacs-cgi): using Emacs Lisp for CGI scripting.
-* [eml](https://github.com/redraiment/eml): Emacs-lisp Markup Language -- convert S-expression to XML.
-* [wechat.el](https://github.com/redraiment/wechat.el): a framework to develop Wechat game in Email Lisp.
+* [edbc](https://github.com/redraiment/edbc): Emacs-Lisp-based data access technology inspired by JDBC.
+* [emacs-cgi](https://github.com/redraiment/emacs-cgi): Using Emacs Lisp for CGI scripting.
+* [eml](https://github.com/redraiment/eml): Emacs-lisp Markup Language - converting S-expressions to XML.
+* [wechat.el](https://github.com/redraiment/wechat.el): A framework for developing WeChat games in Emacs Lisp.
 
 #### 💽 Play with Databases
 
-* [SciKit Learn for PolarDB](https://github.com/redraiment/SciKit-Learn-for-PolarDB): a PostgreSQL extension to wrap SciKit-Learn.
-* [pgaut](https://github.com/redraiment/pgaut): a PostgreSQL extension which implements MySQL `on update current_timestamp`.
-* [pgsql-proxy-middleware](https://github.com/redraiment/pgsql-proxy-middleware): The one-liner node.js proxy middleware for PostgreSQL.
-* [mysqld](https://github.com/redraiment/mysqld): embed a MySQL server into Java program for unit testing.
-* [sqlet](https://github.com/redraiment/sqlet): a framework to develop Web service in pure SQL.
+* [SciKit Learn for PolarDB](https://github.com/redraiment/SciKit-Learn-for-PolarDB): A PostgreSQL extension wrapping SciKit-Learn.
+* [pgaut](https://github.com/redraiment/pgaut): A PostgreSQL extension implementing MySQL's `on update current_timestamp`.
+* [pgsql-proxy-middleware](https://github.com/redraiment/pgsql-proxy-middleware): A one-liner Node.js proxy middleware for PostgreSQL.
+* [sqlet](https://github.com/redraiment/sqlet): A framework for developing web services in pure SQL.
 
 #### 🐬 Play with Docker
 
-My workstations: development environments based on docker container.
+My workstations: Development environments based on Docker containers.
 
-* [docker-workstations](https://github.com/redraiment/docker-workstations): a collection of docker images for development.
-  * [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux): a base Archlinux docker image with some useful utilities.
-  * [clojure](https://github.com/redraiment/docker-workstations/tree/main/clojure): a Clojure development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with Leiningen.
-  * [llvm](https://github.com/redraiment/docker-workstations/tree/main/llvm): a C/C++ development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with Clang, LLVM, etc.
-  * [python](https://github.com/redraiment/docker-workstations/tree/main/python): a Python development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with ipython and jupyter.
+* [docker-workstations](https://github.com/redraiment/docker-workstations): A collection of Docker images for development, including:
+  * [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux): A Archlinux Docker based image with useful utilities.
+  * [clojure](https://github.com/redraiment/docker-workstations/tree/main/clojure): A Clojure development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with Leiningen.
+  * [python](https://github.com/redraiment/docker-workstations/tree/main/python): a Python development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with IPython and Jupyter.
 
 #### 💡 Play with Knowledges
 
-* [calendiary](https://github.com/redraiment/calendiary): a diary app with calendar view, inspired by Flava 1.0.
-* [iKnowledge](https://github.com/redraiment/iKnowledge): personal knowledge management system based on Jekyll.
-* [redraiment.github.io](https://github.com/redraiment/redraiment.github.io): my BLOG based on iKnowledge.
+* [calendiary](https://github.com/redraiment/calendiary): A diary app featuring a calendar view, inspired by Flava 1.0.
+* [iKnowledge](https://github.com/redraiment/iKnowledge): A personal knowledge management system based on Jekyll.
+* [redraiment.github.io](https://github.com/redraiment/redraiment.github.io): My blog built on iKnowledge.
 
 #### 🧰 Play with Utilities
 
-* [jco](https://github.com/redraiment/jco): Provides an API for parsing command line options passed to programs in Java.
-* [jfn](https://github.com/redraiment/jfn): Here is an example of how program with functional-style in Pure Java (1.5+)
-* [listfile](https://github.com/redraiment/listfile): an enhanced `ls` that can match file path with regular expression.
-* [snippets](https://github.com/redraiment/snippets): a collection of ready-to-use samples.
+* [jco](https://github.com/redraiment/jco): An API for parsing command-line options in Java programs.
+* [jfn](https://github.com/redraiment/jfn): An example of functional-style programming in pure Java (1.5+).
+* [listfile](https://github.com/redraiment/listfile): An enhanced `ls` capable of matching file paths with regular expressions.
