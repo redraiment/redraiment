@@ -12,7 +12,8 @@
  :email "redraiment@gmail.com"
  :bio "A Full Stack Engineer Passionate about Cutting-Edge Technologies."
  :favorites [:AI :Compiler :Database :DataAnalysis :WebApplication
-             :Clojure :Kotlin :Python :C :JavaScript
+             :Kotlin :Java :Clojure :Python :TypeScript :JavaScript :C
+             :Vert.x :SpringBoot :React :TailwindCSS
              :Linux :FreeBSD :PostgreSQL :Emacs]}
 ```
 
