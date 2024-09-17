@@ -65,19 +65,11 @@ Hence, I reinvented many wheels.
 
 #### 💽 Play with Databases
 
+* [pg_jieba](https://github.com/redraiment/pg_jieba): MacOS Compatibility Improvements for [pg_jieba](https://github.com/jaiminpan/pg_jieba).
 * [SciKit Learn for PolarDB](https://github.com/redraiment/SciKit-Learn-for-PolarDB): A PostgreSQL extension wrapping SciKit-Learn.
 * [pgaut](https://github.com/redraiment/pgaut): A PostgreSQL extension implementing MySQL's `on update current_timestamp`.
 * [pgsql-proxy-middleware](https://github.com/redraiment/pgsql-proxy-middleware): A one-liner Node.js proxy middleware for PostgreSQL.
 * [sqlet](https://github.com/redraiment/sqlet): A framework for developing web services in pure SQL.
-
-#### 🐬 Play with Docker
-
-My workstations: Development environments based on Docker containers.
-
-* [docker-workstations](https://github.com/redraiment/docker-workstations): A collection of Docker images for development, including:
-  * [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux): A Archlinux Docker based image with useful utilities.
-  * [clojure](https://github.com/redraiment/docker-workstations/tree/main/clojure): A Clojure development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with Leiningen.
-  * [python](https://github.com/redraiment/docker-workstations/tree/main/python): a Python development environment based on [archlinux](https://github.com/redraiment/docker-workstations/tree/main/archlinux) with IPython and Jupyter.
 
 #### 💡 Play with Knowledges
 
@@ -87,6 +79,7 @@ My workstations: Development environments based on Docker containers.
 
 #### 🧰 Play with Utilities
 
+* [qrscan](https://github.com/redraiment/qrscan): Scan a QR code in the terminal using a given PNG image.
 * [jco](https://github.com/redraiment/jco): An API for parsing command-line options in Java programs.
 * [jfn](https://github.com/redraiment/jfn): An example of functional-style programming in pure Java (1.5+).
 * [listfile](https://github.com/redraiment/listfile): An enhanced `ls` capable of matching file paths with regular expressions.
